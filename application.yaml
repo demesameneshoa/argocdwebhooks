@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/demesameneshoa/argocdwebhooks
+    repoURL: https://github.com/demesameneshoa/argocdwebhooks.git
     targetRevision: main
     path: .
   destination: 
